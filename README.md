@@ -8,7 +8,7 @@ Project Name: The Prediction of carbon emission of different Countries using mul
 
 ## Project Description
 
-* The main idea of this project is to create a predictive model to understand the carbon emission of different countries.
+* The idea of this project is to create a predictive model to understand the factors that affect the carbon emission of different countries.
 
 * It also tests the validity of Environment Kuznets Curve.
 
@@ -16,5 +16,5 @@ Project Name: The Prediction of carbon emission of different Countries using mul
 ## Future Work
 
 
-* To take into considerations the natural or environmental factors.
-
+* To take into considerations the natural or human-related factors that affect the environment.
+* To take into consideration the sudden political or socio-economic changes in a country which may result in huge outliers
